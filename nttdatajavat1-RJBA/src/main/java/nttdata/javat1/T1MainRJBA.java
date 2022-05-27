@@ -71,14 +71,7 @@ public class T1MainRJBA {
 			Rafa.shakeMachine();
 	
 			Game.launchAndStart();
-			
-//			for (int i=0; i<100; i++) {
-//				System.out.println((int) (Math.random() * 4 + 1));
-//				
-//			}
-		
 		
 	}
-	
 	
 }
